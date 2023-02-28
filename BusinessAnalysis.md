@@ -82,11 +82,11 @@ An administrator will be able to manage staff accounts, view financial reports, 
 ## 6.1 Preliminary Acquisition Concept:
 The development team will work closely with stakeholders to define and refine requirements. The team will also identify potential sources of the solution, such as open-source software or third-party vendors, and will create a plan for soliciting and contracting these sources. Design, production, and verification will be completed according to industry best practices.
 ## 6.2 Preliminary Deployment Concept:
-The system will undergo thorough testing and validation prior to deployment. The deployment plan will include provisions for training staff on the new system, and for ensuring a smooth transition from the old system to the new system.
+The system will undergo thorough testing and validation prior to deployment. The deployment plan will include provisions for training staff on the new system, and for ensuring a smooth transition from the old system to the new system. The depliyment will also be followed by a guide based on user stories for the future customers and patients. The guide will be available on the website.
 ## 6.3 Preliminary Support Concept:
-The support infrastructure will include operating support, engineering support, maintenance support, supply support, and training support. The helpdesk team will be available to assist with any issues that arise, and will work to continually improve the system based on feedback.
+The support infrastructure will include operating support, maintenance support, supply support, and training support. The business can hire a third party help desk to help with customer and maintance support. The Clinic can also implement in the future a chat bot in the client site of the website in order to help customer with simple questions.
 ## 6.4 Preliminary Retirement Concept:
-The system will be retired when it is no longer viable or necessary. Any hazardous materials used in the process will be disposed of properly.
+The system will be retired when it is no longer viable or necessary. Any unuseful sensitive data or cache used in the process will be deleted properly.
 
 # 7. Project Constraints:
 The project budget will be set soon but it needs to be respected, consequences might include cancelation of the project, and the timeline for completion yet to be defined needs to be followed restricbely. The system must comply with all relevant healthcare regulations and privacy laws.
@@ -94,7 +94,7 @@ The project budget will be set soon but it needs to be respected, consequences m
 # 8. Appendix
 ## 8.1 Acronyms and Abbreviations:
 
-* CMS: patient management system
+* PMS: patient management system
 * DB: patient database
 * OPS: general operations system
 * IT: information technology
